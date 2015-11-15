@@ -1,1 +1,3 @@
 anotherから追加
+developから追加だよ
+add hogehoge by develop
